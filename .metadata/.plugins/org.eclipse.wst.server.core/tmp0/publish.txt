@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Jun 15 20:50:27 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fazal\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fazal\\.m2\\repository\\org\\springframework\\spring-web\\5.0.5.RELEASE\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fazal\\.m2\\repository\\org\\springframework\\spring-web\\5.0.6.RELEASE\\spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar
